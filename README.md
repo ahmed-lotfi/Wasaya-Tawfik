@@ -16,7 +16,8 @@ A **modern, fast, and responsive** pizza ordering system built with **React.js**
 - **Database**: MongoDB / Firebase / MySQL (if applicable)  
 
 ## 📸 Screenshot  
-![Wasaya Tawfik Ordering System](image.png)  
+- ![Home](home.png)  
+- ![Menu](menu.png)  
 
 ## 🚀 Installation & Setup  
 1. Clone the repository:  
